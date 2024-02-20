@@ -1,0 +1,39 @@
+body {
+    background-color: white;
+    text-align-last: left;
+}
+header{
+  color: white;
+  background-color:skyblue;
+  padding: 10px;
+   
+}
+
+
+nav ul{
+  background-color: #97B1E8;
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  color: white;
+}
+
+ .nav{
+  display: inline-block;
+  margin-right: 30px;
+  padding: 5px;
+  text-size: 15px
+}
+
+.what{
+ text-align: left;
+ text-size: 15px;
+}
+
+footer{
+    color: white;
+    background-color:skyblue;
+    padding: 20px;
+    text-align: center;
+    
+}
